@@ -2,7 +2,7 @@
 
 "I’ve never thought philosophy would be so deadly"
 
-![Alt text](https://github.com/lucaslefrancq/42_philosophers/blob/main/philo_example.png)
+![Alt text](https://github.com/vpaladin/ft_philosophers/blob/main/success.png)
 
 ## About
 
